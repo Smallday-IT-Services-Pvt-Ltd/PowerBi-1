@@ -1,0 +1,8 @@
+,!OTHERNAME,NAME,REFNUM,TIMESTAMP,BADDR1,BADDR2,BADDR3,BADDR4,BADDR5,PHONE1,PHONE2,FAXNUM,EMAIL,NOTE,CONT1,CONT2,NOTEPAD,SALUTATION,COMPANYNAME,FIRSTNAME,MIDINIT,LASTNAME,HIDDEN,DELCOUNT
+0,OTHERNAME,Accumulated Depreciation,77,1071528347,Accumulated Depreciation,,,,,,,,,,,,,,,,,,N,0
+1,OTHERNAME,ATM Withdrawal,50,934380930,,,,,,,,,,,,,,,,,,,N,0
+2,OTHERNAME,Deposit,51,934380930,,,,,,,,,,,,,,,,,,,N,0
+3,OTHERNAME,Larry Wadford,52,934380930,,,,,,,,,,,,,,,,,,,N,0
+4,OTHERNAME,Opening Bal Adj to Retain Earnings,53,934380930,Transfer to Retained Earnings,,,,,,,,,,,,,,,,,,N,0
+5,OTHERNAME,Transfer from Savings,54,934380930,,,,,,,,,,,,,,,,,,,N,0
+6,OTHERNAME,Transfer to Savings,55,934380930,,,,,,,,,,,,,,,,,,,N,0

@@ -1,0 +1,39 @@
+,!BUD,ACCNT,PERIOD,AMOUNT,STARTDATE,CLASS,CUSTOMER
+0,BUD,Landscaping Services:Design Services,MONTH,"-4,000.00","-4,000.00","-4,000.00","-4,000.00"
+1,BUD,Landscaping Services,MONTH,"-10,000.00","-10,000.00","-10,000.00","-10,000.00"
+2,BUD,Landscaping Services:Job Materials:Fountains & Garden Lighting,MONTH,-150.00,,,-150.00
+3,BUD,Landscaping Services:Job Materials:Plants and Sod,MONTH,-250.00,-250.00,-250.00,-250.00
+4,BUD,Landscaping Services:Job Materials:Sprinklers & Drip systems,MONTH,-250.00,,,-250.00
+5,BUD,Landscaping Services:Labor:Installation,MONTH,-500.00,-500.00,-500.00,-500.00
+6,BUD,Landscaping Services:Labor:Maintenance & Repairs,MONTH,-250.00,-250.00,-250.00,-250.00
+7,BUD,Other Income,MONTH,-100.00,,,-100.00
+8,BUD,Advertising,MONTH,75.00,,,75.00
+9,BUD,Advertising,MONTH,75.00,,,75.00
+10,BUD,Automobile,MONTH,100.00,100.00,100.00,100.00
+11,BUD,Automobile:Fuel,MONTH,100.00,100.00,100.00,100.00
+12,BUD,Automobile:Maintenance & Repairs,MONTH,100.00,,,100.00
+13,BUD,Depreciation,MONTH,,,,
+14,BUD,Insurance:Disability,MONTH,31.25,31.25,31.25,31.25
+15,BUD,Insurance:Disability,MONTH,62.50,62.50,62.50,62.50
+16,BUD,Insurance:Liability,MONTH,45.00,45.00,45.00,45.00
+17,BUD,Insurance:Liability,MONTH,110.00,110.00,110.00,110.00
+18,BUD,Insurance:Worker's Comp,MONTH,42.10,42.10,42.10,42.10
+19,BUD,Insurance:Worker's Comp,MONTH,135.00,135.00,135.00,135.00
+20,BUD,Job Expenses:Equipmental Rental,MONTH,50.00,50.00,50.00,50.00
+21,BUD,Job Expenses:Job Materials,MONTH,250.00,250.00,250.00,250.00
+22,BUD,Job Expenses:Job Materials:Decks & Patio,MONTH,75.00,75.00,75.00,75.00
+23,BUD,Job Expenses:Job Materials:Fountains & Garden Lighting,MONTH,75.00,75.00,75.00,75.00
+24,BUD,Job Expenses:Job Materials:Plants & Sod,MONTH,75.00,75.00,75.00,75.00
+25,BUD,Job Expenses:Job Materials:Sprinkler's & Drip Systems,MONTH,75.00,75.00,75.00,75.00
+26,BUD,Job Expenses:Permits,MONTH,100.00,,,100.00
+27,BUD,Job Expenses:Subcontractors,MONTH,150.00,150.00,150.00,150.00
+28,BUD,Mileage Reimbursement,MONTH,100.00,100.00,100.00,100.00
+29,BUD,Office Supplies,MONTH,75.00,75.00,75.00,75.00
+30,BUD,Office Supplies,MONTH,35.00,35.00,35.00,35.00
+31,BUD,Rent,MONTH,800.00,800.00,800.00,800.00
+32,BUD,Rent,MONTH,475.00,475.00,475.00,475.00
+33,BUD,Rent,MONTH,475.00,475.00,475.00,475.00
+34,BUD,Tools and Misc. Equipment,MONTH,100.00,100.00,100.00,100.00
+35,BUD,Utilities:Gas and Electric,MONTH,135.00,135.00,135.00,135.00
+36,BUD,Utilities:Telephone,MONTH,75.00,75.00,75.00,75.00
+37,BUD,Utilities:Water,MONTH,25.00,25.00,25.00,25.00
